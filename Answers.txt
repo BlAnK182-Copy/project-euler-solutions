@@ -3,3 +3,4 @@ Project Euler Answers:
 1. Problem 001 - Multiples of 3 or 5: 233168
 2. Problem 002 - Even Fibonacci Number: 4613732
 3. Problem 003 - Largest Prime Factor: 6857
+4. Problem 004 - Largest Palindrom Product: 906609
