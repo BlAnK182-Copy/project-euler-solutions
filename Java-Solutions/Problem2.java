@@ -1,3 +1,5 @@
+//Problem 2 - Even Fibonacci Numbers
+
 import java.util.ArrayList;
 
 public class Problem2 {
@@ -11,14 +13,15 @@ public class Problem2 {
     public static void main(String[] args) {
         ArrayList<Integer> fib = new ArrayList<Integer>();
         fib.add(0);
-        fib.add(1);
+        fib.add(1); // current value of fib = [0,1]
 
         final int FIXED_VALUE = 4000000; 
         
         int incrementor = fib.size();
         Integer curValue=0;
         while (curValue<FIXED_VALUE) {
-            curValue = fib.get(incrementor-1) + fib.get(incrementor-2); // in a fibonacci series, each subsequent term is the sum of the previous two
+            curValue = fib.get(incrementor-1) + fib.get(incrementor-2); 
+            // in a fibonacci series, each subsequent term is the sum of the previous two
             fib.add(curValue);
             incrementor+=1;
         }
