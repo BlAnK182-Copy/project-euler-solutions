@@ -2,10 +2,10 @@
 
 Project Euler Solutions by BlAnK182-Copy<br/>
 <br/>
-Latest Problem Solved in Python: Problem 1: Multiples of 3 or 5<br/>
-cite:https://projecteuler.net/problem=1
+Latest Problem Solved in Python: Problem 2: Even Fibonacci Number<br/>
+cite:https://projecteuler.net/problem=2
 <br/>
   
-Latest Problem Solved in Java: Problem 1: Multiples of 3 or 5<br/>
-cite:https://projecteuler.net/problem=1
+Latest Problem Solved in Java: Problem 2: Even Fibonacci Numbers<br/>
+cite:https://projecteuler.net/problem=2
 <br/>
