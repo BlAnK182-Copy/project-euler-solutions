@@ -1,3 +1,5 @@
+// Problem 1 - Multiples of 3 or 5
+
 public class Problem1 {
     public static void main(String[] args) {
         final int NUMBER = 1000;
