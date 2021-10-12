@@ -1,4 +1,4 @@
-#Problem 4
+#Problem 4 - Largest Palindrom Product
 
 def palindromeCheck(number):
     if str(number)[::-1].lower() == str(number).lower():
