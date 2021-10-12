@@ -4,3 +4,4 @@ Project Euler Answers:
 2. Problem 002 - Even Fibonacci Number: 4613732
 3. Problem 003 - Largest Prime Factor: 6857
 4. Problem 004 - Largest Palindrom Product: 906609
+5. Problem 005 - Smallest Multiple: 232792560
