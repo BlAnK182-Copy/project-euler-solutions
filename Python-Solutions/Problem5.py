@@ -27,11 +27,13 @@ print(f"Number is: {number}")
 import math as m
 
 def lcm(num1, num2):
+    print(f"the gcd of {num1} and {num2} is: {m.gcd(num1, num2)}")
     return (num1 * num2) // (m.gcd(num1, num2))
 
 smallestMultiple = 1
 for i in range(2, 21):
     smallestMultiple = lcm(i, smallestMultiple)
-    # print(f"Current Smallest multiple: {smallestMultiple}")
+    print(f"Current Smallest multiple (when i = {i}) is: {smallestMultiple}")
+    print()
 
 print(f"The smallest multiple which is evenly divisible by all numbers from 1 to 20 is: {smallestMultiple}")
