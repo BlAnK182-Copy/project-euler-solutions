@@ -1,4 +1,4 @@
-//Largest Product in a series
+//Problem 8 - Largest Product in a series
 
 public class Problem8 {
 

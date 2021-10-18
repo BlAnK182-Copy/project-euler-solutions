@@ -1,4 +1,4 @@
-//10001st Prime
+//Problem 7 - 10001st Prime
 
 public class Problem7 {
     public static boolean isPrime(int number) {

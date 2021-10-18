@@ -1,4 +1,4 @@
-# 10001st Prime 
+#Problem 7 - 10001st Prime 
 
 def isPrime(number):
     for i in range(2, number//2 + 1):

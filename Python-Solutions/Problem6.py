@@ -1,4 +1,4 @@
-# Sum Square Difference 
+#Problem 6 - Sum Square Difference 
 
 def sumOfSquares(n):
     sumOfSquaresVar=0

@@ -1,4 +1,4 @@
-//sum square difference
+//Problem 6 - sum square difference
 
 import java.lang.Math;
 
