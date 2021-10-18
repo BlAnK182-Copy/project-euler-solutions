@@ -6,3 +6,4 @@ Project Euler Answers:
 4. Problem 004 - Largest Palindrom Product: 906609
 5. Problem 005 - Smallest Multiple: 232792560
 6. Problem 006 - Sum Square Difference: 25164150
+7. Problem 007 - 10001st Prime: 104743
